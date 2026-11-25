@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What are the four strokes of a four-stroke petrol engine?",
+    "ground_truth": "Intake, compression, power, and exhaust.",
+    "reference_context": "A four-stroke petrol engine completes one power cycle in four strokes: intake, compression, power, and exhaust."
+  },
+  {
+    "question": "How do diesel engines ignite fuel?",
+    "ground_truth": "Diesel engines ignite fuel by compression alone and do not use spark plugs.",
+    "reference_context": "Diesel engines ignite fuel by compression alone and do not use spark plugs."
+  },
+  {
+    "question": "How often should engine oil and the oil filter be changed?",
+    "ground_truth": "Every 5,000 to 10,000 kilometres.",
+    "reference_context": "Most manufacturers recommend changing engine oil and the oil filter every 5,000 to 10,000 kilometres."
+  },
+  {
+    "question": "What is the function of engine oil?",
+    "ground_truth": "It lubricates moving parts, reduces friction, and carries heat away from the engine.",
+    "reference_context": "Engine oil lubricates moving parts, reduces friction, and carries heat away from the engine."
+  },
+  {
+    "question": "How often should brake fluid be replaced?",
+    "ground_truth": "Every two years, because it absorbs moisture over time.",
+    "reference_context": "Brake fluid absorbs moisture over time and should be replaced every two years."
+  },
+  {
+    "question": "What does a grinding or squealing noise when braking usually indicate?",
+    "ground_truth": "The brake pads are worn and need replacement.",
+    "reference_context": "A grinding or squealing noise when braking usually means the brake pads are worn and need replacement."
+  },
+  {
+    "question": "What does ABS do?",
+    "ground_truth": "It prevents the wheels from locking during hard braking so the driver keeps steering control.",
+    "reference_context": "The Anti-lock Braking System (ABS) prevents the wheels from locking during hard braking so the driver can keep steering control."
+  },
+  {
+    "question": "How often should tyre pressure be checked and under what condition?",
+    "ground_truth": "Once a month, when the tyres are cold.",
+    "reference_context": "Tyre pressure should be checked once a month when the tyres are cold."
+  },
+  {
+    "question": "How often should tyres be rotated?",
+    "ground_truth": "Every 8,000 to 10,000 kilometres.",
+    "reference_context": "Tyres should be rotated every 8,000 to 10,000 kilometres"
+  },
+  {
+    "question": "Why do electric vehicles not need oil changes?",
+    "ground_truth": "EVs have fewer moving parts than ICE vehicles, so they need no oil changes.",
+    "reference_context": "EVs produce no tailpipe emissions and have fewer moving parts than ICE vehicles, so they need no oil changes."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "ground_truth": "It recovers energy during deceleration and sends it back to the battery.",
+    "reference_context": "Regenerative braking recovers energy during deceleration and sends it back to the battery."
+  },
+  {
+    "question": "What charge range is advised to extend EV battery life?",
+    "ground_truth": "Keep the charge between 20 and 80 percent for daily use and limit frequent fast charging.",
+    "reference_context": "manufacturers advise keeping the charge between 20 and 80 percent for daily use and limiting frequent fast charging."
+  },
+  {
+    "question": "What does a red dashboard warning light mean?",
+    "ground_truth": "A serious problem needing immediate attention, such as low oil pressure or an overheating engine.",
+    "reference_context": "A red warning light signals a serious problem that needs immediate attention, such as low oil pressure or an overheating engine."
+  },
+  {
+    "question": "What does the check engine light mean and how can it be read?",
+    "ground_truth": "The engine control unit has detected an emission or engine fault, which can be read with an OBD-II scanner.",
+    "reference_context": "The check engine light means the engine control unit has detected an emission or engine fault, which can be read with an OBD-II scanner."
+  },
+  {
+    "question": "What does Electronic Stability Control (ESC) do?",
+    "ground_truth": "It uses sensors to detect skidding and applies individual brakes to help the driver regain control.",
+    "reference_context": "Electronic Stability Control (ESC) uses sensors to detect skidding and applies individual brakes to help the driver regain control."
+  },
+  {
+    "question": "What is the most effective safety device in a car?",
+    "ground_truth": "The seat belt.",
+    "reference_context": "Seat belts remain the most effective safety device and should be worn by every passenger."
+  },
+  {
+    "question": "Who won the Formula 1 championship in 2020?",
+    "ground_truth": "Not answerable from the document; the agent should say the document does not contain this information.",
+    "reference_context": ""
+  }
+]
